@@ -1,5 +1,4 @@
 import "./assets/css/global.css";
+import PageAlbums from "./pages/albums";
 
-import { API_ALBUM_URL } from "./contants";
-
-console.log(API_ALBUM_URL);
+PageAlbums();
