@@ -1,4 +1,5 @@
-import "./assets/css/global.css";
-import PageAlbums from "./pages/albums";
+import PageAlbuns from "./pages/albums";
 
-PageAlbums();
+import "./assets/css/global.css";
+
+PageAlbuns();

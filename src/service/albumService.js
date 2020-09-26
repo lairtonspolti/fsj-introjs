@@ -1,6 +1,7 @@
-import { API_ALBUM_URL } from "../contants";
+import { API_ALBUM_URL } from "../constants";
 
-//Promise
-export async function getAllAlbums() {
+// Promise
+// async await
+export async function getAllAlbuns() {
   return fetch(API_ALBUM_URL).then((response) => response.json());
 }

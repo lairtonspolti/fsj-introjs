@@ -1,0 +1,9 @@
+.albumItem {
+  background: blue;
+  border: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  padding: 1rem;
+  width: 100%;
+}

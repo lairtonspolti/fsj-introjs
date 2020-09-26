@@ -6,3 +6,7 @@ body {
   max-width: 500px;
   padding: 1rem;
 }
+
+input {
+  padding: 1rem;
+}
